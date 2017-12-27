@@ -1,3 +1,6 @@
+Please click raw to check this code book, thanks.
+
+
 +++
 +++ Author: Chen Ye
 +++ run_analysis.R
